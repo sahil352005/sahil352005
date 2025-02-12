@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Patil</h1>
 <h3 align="center">A passionate Computer Science Student & Developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahil352005&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
+--- 
 
 ### 🚀 **About Me**
 - 💬 Ask me about **React, JavaScript, CyberSecurity, and AI/ML**
@@ -31,6 +25,14 @@
 ### 🛠 **Tech Stack & Tools:**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,java,cpp,python,express,nodejs,mongodb,mysql,aws,azure,nginx,docker,kubernetes,pytorch,tensorflow&perline=6" alt="Tech Stack" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahil352005&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---

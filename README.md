@@ -11,7 +11,7 @@
 
 ### 🚀 **About Me**
 - 💬 Ask me about **React, JavaScript, CyberSecurity, and AI/ML**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahil-patil-2a1b71255/)
+- Note: **Currently In the Learning Phase..**
 - ⚡ Fun fact: **I love collaborating with techies!**
 
 ---

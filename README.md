@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 **About Me**
-- 💬 Ask me about **React, JavaScript, DevOps, and AI/ML**
+- 💬 Ask me about **React, JavaScript, CyberSecurity, and AI/ML**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sahil-patil-2a1b71255/)
 - ⚡ Fun fact: **I love collaborating with techies!**
 
@@ -23,9 +23,6 @@
   </a>
   <a href="https://www.instagram.com/__sahil__0305/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sahil_patil35" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
 

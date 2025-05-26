@@ -5,7 +5,7 @@
 
 ### 🚀 **About Me**
 - 💬 Ask me about **React, JavaScript, CyberSecurity, and AI/ML**
-- 🌱 I’m currently woring on MERN web app
+- 🌱 I’m currently woring on AIML and MERN development..
 - 😀 Trying to be good at DSA
 - ⚡ Fun fact: **I love collaborating with techies!**
 

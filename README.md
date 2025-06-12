@@ -61,5 +61,5 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sahil352005&theme=react-dark&bg_color=1a1b27" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil352005&theme=react-dark&bg_color=1a1b27" alt="Contribution Graph" />
 </p>

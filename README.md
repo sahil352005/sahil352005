@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 💬 Ask me about **React, JavaScript, CyberSecurity, and AI/ML**
+- 💬 Ask me about **React, Langchain , CyberSecurity, and AI/ML**
 - 🌱 I’m currently working on **AIML** and **MERN** development
 - 👨‍💻 Practicing **Data Structures & Algorithms**
 - ⚡ Fun fact: I **love collaborating** with techies and building side-projects
